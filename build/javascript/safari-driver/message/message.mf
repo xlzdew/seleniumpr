@@ -1,0 +1,9 @@
+build/javascript/safari-driver/message/message.mf
+//javascript/webdriver:base_lib
+javascript/safari-driver/message/alert.js
+javascript/safari-driver/message/command.js
+javascript/safari-driver/message/load.js
+javascript/safari-driver/message/loadmodule.js
+javascript/safari-driver/message/logmessage.js
+javascript/safari-driver/message/message.js
+javascript/safari-driver/message/messagetarget.js

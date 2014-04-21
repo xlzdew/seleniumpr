@@ -1,0 +1,2 @@
+build/javascript/firefox-driver/error.mf
+javascript/firefox-driver/js/error.js

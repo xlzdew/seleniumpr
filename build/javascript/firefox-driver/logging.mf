@@ -1,0 +1,7 @@
+build/javascript/firefox-driver/logging.mf
+//javascript/firefox-driver:files
+//javascript/firefox-driver:moz
+//javascript/firefox-driver:prefs
+//javascript/atoms:deps
+javascript/firefox-driver/js/logger.js
+javascript/firefox-driver/js/profiler.js

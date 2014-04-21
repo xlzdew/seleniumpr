@@ -1,0 +1,10 @@
+build/javascript/firefox-driver/firefoxdriver.mf
+//javascript/firefox-driver:modals
+//javascript/firefox-driver:preconditions
+//javascript/firefox-driver:screenshot
+//javascript/firefox-driver:timer
+//javascript/firefox-driver:utils
+//javascript/firefox-driver:webelement
+//javascript/firefox-driver:webloadinglistener
+//javascript/atoms:deps
+javascript/firefox-driver/js/firefoxDriver.js

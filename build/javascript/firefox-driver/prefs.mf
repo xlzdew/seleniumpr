@@ -1,0 +1,2 @@
+build/javascript/firefox-driver/prefs.mf
+javascript/firefox-driver/js/prefs.js

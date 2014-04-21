@@ -1,0 +1,5 @@
+build/javascript/firefox-driver/firefox_utils.mf
+//javascript/firefox-driver:logging
+//javascript/firefox-driver:moz
+//javascript/atoms:deps
+javascript/firefox-driver/js/firefox-utils.js

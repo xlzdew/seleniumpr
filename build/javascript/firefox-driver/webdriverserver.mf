@@ -1,0 +1,7 @@
+build/javascript/firefox-driver/webdriverserver.mf
+//javascript/firefox-driver:dispatcher
+//javascript/firefox-driver:firefoxdriver
+//javascript/firefox-driver:logging
+//javascript/firefox-driver:moz
+//javascript/firefox-driver:utils
+javascript/firefox-driver/js/webdriverserver.js

@@ -1,0 +1,9 @@
+build/javascript/safari-driver/common_lib.mf
+//javascript/safari-driver/message:message
+//javascript/webdriver:base_lib
+javascript/safari-driver/alert.js
+javascript/safari-driver/command.js
+javascript/safari-driver/console.js
+javascript/safari-driver/dom.js
+javascript/safari-driver/logging.js
+javascript/safari-driver/tab.js

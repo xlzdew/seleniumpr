@@ -1,0 +1,2 @@
+build/javascript/firefox-driver/events.mf
+javascript/firefox-driver/js/events.js

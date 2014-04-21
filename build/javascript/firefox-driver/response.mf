@@ -1,0 +1,2 @@
+build/javascript/firefox-driver/response.mf
+javascript/firefox-driver/js/response.js

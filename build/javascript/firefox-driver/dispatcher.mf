@@ -1,0 +1,7 @@
+build/javascript/firefox-driver/dispatcher.mf
+//javascript/firefox-driver:error
+//javascript/firefox-driver:request
+//javascript/firefox-driver:response
+//javascript/firefox-driver:utils
+//javascript/atoms:deps
+javascript/firefox-driver/js/dispatcher.js

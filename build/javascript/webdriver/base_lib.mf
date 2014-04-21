@@ -1,0 +1,7 @@
+build/javascript/webdriver/base_lib.mf
+//javascript/atoms:error_lib
+//third_party/closure
+javascript/webdriver/command.js
+javascript/webdriver/events.js
+javascript/webdriver/promise.js
+javascript/webdriver/stacktrace.js

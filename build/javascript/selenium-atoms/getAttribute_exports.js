@@ -1,0 +1,1 @@
+goog.require('core.element'); goog.exportSymbol('_', core.element.getAttribute);
